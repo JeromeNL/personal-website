@@ -20,7 +20,7 @@
     <footer class="mt-auto">
       <footer class="footer footer-center p-4 bg-base-300 text-base-content">
         <aside>
-          <p>Made by Joram with NuxtJS</p>
+          <a href="https://github.com/JeromeNL/personal-website" class="ml-3 underline">Made by Joram With NuxtJS</a>
         </aside>
       </footer>
     </footer>
