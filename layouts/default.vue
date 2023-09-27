@@ -1,12 +1,11 @@
 <template>
   <div>
     <header>
-
+      <title>JoramKwetters.nl</title>
     </header>
     <main class="flex flex-col min-h-screen">
       <div class="navbar bg-base-100">
         <div class="flex-1">
-<!--          <a class="btn btn-ghost normal-case text-xl">daisyUI</a>-->
         </div>
         <div class="flex-none">
           <ul class="menu menu-horizontal px-1">
@@ -28,5 +27,3 @@
   </div>
 </template>
 
-<script>
-</script>

@@ -12,6 +12,5 @@ export default {
     extend: {},
   },
   plugins: [require("daisyui", "tw-elements/dist/plugin.cjs")],
-
 }
 
