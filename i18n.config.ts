@@ -4,15 +4,24 @@ export default defineI18nConfig(() => ({
     messages: {
         en: {
             welcome: 'Welcome',
-            hello: 'Hello! I am Joram Kwetters',
+            hello: 'Hello!',
+            iam: 'I am Joram Kwetters',
+            role: 'Student Informatics (Software Engineering)',
+            email: 'Send an E-mail'
         },
         de: {
             welcome: 'Wilkommen',
-            hello: 'Grüezi! Ich bin Joram Kwetters'
+            hello: 'Grüezi!',
+            iam: 'Ich bin Joram Kwetters',
+            role: 'Student Informatik (Software Entwicklung)',
+            email: 'Schicke eine E-Mail'
         },
         nl: {
             welcome: 'Welkom',
-            hello: 'Hallo! Ik ben Joram Kwetters'
+            hello: 'Hallo!',
+            iam: 'Ik ben Joram Kwetters',
+            role: 'Student Informatica (Software Ontwikkeling)',
+            email: 'Stuur een E-mail'
         }
     }
 }))
