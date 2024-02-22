@@ -71,7 +71,7 @@
     ogDescription: "My name is Joram Kwetters. I am student Informatics (Software Engineering) at Avans University of Applied Sciences in 's-Hertogenbosch (NL).",
   })
 </script>
-<script>
+<script lang="ts">
 export default {
   layout: 'default',
 }
