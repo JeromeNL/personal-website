@@ -67,4 +67,13 @@
 export default {
   layout: 'default',
 }
+
+useSeoMeta({
+  title: "Joram Kwetters",
+  ogTitle: "Joram Kwetters",
+  description: "My name is Joram Kwetters. I am student Informatics (Software Engineering) at Avans University of Applied Sciences in 's-Hertogenbosch (NL).",
+  ogDescription: "My name is Joram Kwetters. I am student Informatics (Software Engineering) at Avans University of Applied Sciences in 's-Hertogenbosch (NL).",
+
+})
+
 </script>
